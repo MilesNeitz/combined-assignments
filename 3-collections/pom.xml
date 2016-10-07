@@ -11,6 +11,4 @@
     </parent>
 
     <artifactId>3-collections</artifactId>
-    <version>${ftd.assignments.version}</version>
-
-</project>
+    </project>

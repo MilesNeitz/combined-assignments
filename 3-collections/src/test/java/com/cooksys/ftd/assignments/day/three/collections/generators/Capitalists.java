@@ -1,10 +1,7 @@
 package com.cooksys.ftd.assignments.day.three.collections.generators;
 
-import com.cooksys.ftd.assignments.day.three.collections.model.Capitalist;
 import com.cooksys.ftd.assignments.day.three.collections.model.FatCat;
 import com.cooksys.ftd.assignments.day.three.collections.model.WageSlave;
-import com.pholser.junit.quickcheck.generator.GenerationStatus;
-import com.pholser.junit.quickcheck.generator.Generator;
 import com.pholser.junit.quickcheck.random.SourceOfRandomness;
 
 public interface Capitalists {

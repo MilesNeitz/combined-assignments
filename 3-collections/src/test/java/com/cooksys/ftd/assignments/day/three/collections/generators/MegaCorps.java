@@ -6,7 +6,8 @@ import com.pholser.junit.quickcheck.generator.Generator;
 import com.pholser.junit.quickcheck.random.SourceOfRandomness;
 
 public class MegaCorps extends Generator<MegaCorp> {
-    private Corp corp;
+    @SuppressWarnings("unused")
+	private Corp corp;
 
     public MegaCorps() {
         super(MegaCorp.class);
