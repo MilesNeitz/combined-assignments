@@ -1,1 +1,5 @@
-<student/>
+<student firstName="Rick" lastName="James">
+    <favorite-ide>Notepad++</favorite-ide>
+    <favorite-language>JavaScript</favorite-language>
+    <favorite-paradigm>Object-Oriented</favorite-paradigm>
+</student>

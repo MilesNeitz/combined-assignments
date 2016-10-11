@@ -1,1 +1,8 @@
-<config/>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+	<local port = "8080">
+	</local>
+	<remote host = "10.1.1.194" port = "8080">
+	</remote>
+	<student-file-path>config/student.xml</student-file-path>
+</config>

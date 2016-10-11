@@ -2,6 +2,12 @@ package com.cooksys.serialization.assignment.model;
 
 import java.util.List;
 
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlRootElement;
+
+@XmlRootElement()
+@XmlAccessorType (XmlAccessType.FIELD)
 public class Session {
     private String location;
     private String startDate;
